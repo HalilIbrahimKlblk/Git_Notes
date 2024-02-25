@@ -12,7 +12,7 @@
 ### **git status** = Komutunu çalıştırıp yapmış olduğumuz değişiklikleri bize listeler. <br/>
 ### **git remote add [bağlantı adı] [Uzak Server Linki]** = Komutunu çalıştırıp githup depomuz uzak depo olarak bağlanır. <br/>
 ### **git remote** = Komutunu çalıştırıp githup deposu yani uzak depo tanımlanan bağlantı adı ile kontrol edilir. <br/>
-### **git push -u githubRepo master** = Komutunu çalıştırıp githup depomuza yeni değişikliğimizi göndermiş oluyoruz. <br/>
+### **git push -u [bağlantı adı] master** = Komutunu çalıştırıp githup depomuza yeni değişikliğimizi göndermiş oluyoruz. <br/>
 ### **git rm -r silinecek klasör adı/** = Belirtilen klasörü ve içindekileri siler. <br/>
 ### **git rm silinecek dosya adı** = Belirtilen dosyayı siler. <br/>
 ### **git mv Eski.txt Yeni.txt** = Belirtilen dosyanın adını belirtilen yeni ad ile adlandırır. <br/>
