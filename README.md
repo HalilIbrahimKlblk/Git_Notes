@@ -28,3 +28,4 @@
 ### **git fetch** = Uzak sunucuda yeni tanımlanmış branchleri locale çeker. <br/>
 ### **git branch [branch name]** = Gite bağlı localde yeni branch eklemek için kullanılır. <br/>
 ### **git checkout [branch name]** = Gite bağlı olan branche geçmek için kullanılır. <br/>
+### **git pull [bağlantı adı] [barnch adı]** = Uzak sunucudaki dosyaları locale çekmek için kullanılır. <br/>
