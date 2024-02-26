@@ -25,3 +25,6 @@
 ### **cat .gitignore** = Gitignore klasörünün içindekileri listeler. <br/>
 ### **git branch** = Gite bağlı branchleri sorgular. <br/>
 ### **git branch --all** = Gite bağlı tüm branchleri (uzak sunucu dahil) sorgular. <br/>
+### **git fetch** = Uzak sunucuda yeni tanımlanmış branchleri locale çeker. <br/>
+### **git branch [branch name]** = Gite bağlı localde yeni branch eklemek için kullanılır. <br/>
+### **git checkout [branch name]** = Gite bağlı olan branche geçmek için kullanılır. <br/>
