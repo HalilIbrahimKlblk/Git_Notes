@@ -23,3 +23,5 @@
 ### **git checkout [hash kodu] -- .** =Geçilmek istenen versiyonun hash kodu yada ilk 7 değeri yazılır. Sondaki nokta çok önemlidir, geçilmek istenen versiyondaki bütün dosyaları getirir. Nokta yerine dosya ismi yazarsak sadece o dosyaya ait veriler gelir. <br/>
 ### **cat >> .gitignore** = Gitignore klasörünü oluşturur ve buraya projemizde git ile paylaşmayı istemediğimiz dosyalar yer alır. <br/>
 ### **cat .gitignore** = Gitignore klasörünün içindekileri listeler. <br/>
+### **git branch** = Gite bağlı branchleri sorgular. <br/>
+### **git branch --all** = Gite bağlı tüm branchleri (uzak sunucu dahil) sorgular. <br/>
