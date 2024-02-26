@@ -30,3 +30,5 @@
 ### **git checkout [branch name]** = Gite bağlı olan branche geçmek için kullanılır. <br/>
 ### **git pull [bağlantı adı] [barnch adı]** = Uzak sunucudaki dosyaları locale çekmek için kullanılır. <br/>
 ### **git merge [barnch adı]** = Başka bir branch'deki değişiklikleri üzerinde çalıştığınız kendi branch'inize entegre etme işlemidir. <br/>
+### **git fetch -p** = Uzak sunucuda tanımlanmış ve silinmiş branchleri localden siler. <br/>
+### **git branch -D [barnch adı]** = Local sunucudan branch silmek için kullanılır. <br/>
